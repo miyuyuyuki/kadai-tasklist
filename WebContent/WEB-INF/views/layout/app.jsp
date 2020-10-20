@@ -14,7 +14,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Daro Kirameki.
+
             </div>
         </div>
     </body>
